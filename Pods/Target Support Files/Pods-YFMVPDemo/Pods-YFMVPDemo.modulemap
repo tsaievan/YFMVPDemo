@@ -1,0 +1,6 @@
+framework module Pods_YFMVPDemo {
+  umbrella header "Pods-YFMVPDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
